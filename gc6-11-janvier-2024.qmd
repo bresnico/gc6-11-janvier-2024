@@ -1,8 +1,9 @@
 ---
 title: Formation FOCUS
 from: markdown+emoji
-subtitle: Séance du groupe consultatif (6)
-date: "11 janvier 2024"
+subtitle: Séance du groupe consultatif (5)
+date: 11 janvier 2024
+date-format: full
 lang: fr
 title-slide-attributes: 
   data-background-image: img/rocket_light.jpg
@@ -31,12 +32,12 @@ format:
 
 ##  {background-color="white" background-image="img/rocket_light.jpg" background-size="absolute" background-opacity="0.3"}
 
-![](img/org.png)
+![](img/org.png){fig-align="center"}
 
 ##  {background-color="white" background-image="img/rocket_light.jpg" background-size="absolute" background-opacity="0.3"}
 
 
-![](img/mermaid-diagram-2023-10-17-081857.svg)
+![](img/mermaid-diagram-2023-10-17-081857.svg){fig-align="center"}
 
 
 ## Session 2 {background-color="white" background-image="img/rocket_light.jpg" background-size="absolute" background-opacity="0.3"}
@@ -109,9 +110,10 @@ Occurrences :
 
 ## Session 3 {background-color="white" background-image="img/rocket_light.jpg" background-size="absolute" background-opacity="0.3"}
 
-- Cours 14.21
-- Prochain événement : 17 janvier 2024
-- Fin de la session 3 : 22 mars 2024
+#### Prochains événements
+
+- Conférence introductive du thème 3 : 17 janvier 2024
+- Fin de la formation : 22 mars 2024
 
 
 ## Divers {background-color="white" background-image="img/rocket_light.jpg" background-size="absolute" background-opacity="0.3"}
